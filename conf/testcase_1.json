@@ -1,0 +1,16 @@
+{
+  "id": "Test1",
+  "specification": {
+    "dimension": {
+      "screensize": "139.7 cm (138.68 cm) (55 [54.6])"
+    },
+    "connectivity": {
+      "networkStandard": {
+        "wireless": {
+          "bluetooth": true,
+          "wifi": true
+        }
+      }
+    }
+  }
+}

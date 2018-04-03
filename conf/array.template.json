@@ -1,0 +1,97 @@
+{
+  "id": {
+    "newKeyName": "Identifier",
+    "funcList": []
+  },
+  "source": {
+    "newKeyName": "Source",
+    "funcList": [],
+    "value": "Sony"
+  },
+  "client": {
+    "newKeyName": "Vendor",
+    "funcList": [],
+    "value": "Amazon"
+  },
+  "length": {
+    "newKeyName": "Length",
+    "funcList": [],
+    "groupedTo": {"groupKey": "Dimension" , "separator": " x ", "order": 1}
+  },
+  "width": {
+    "newKeyName": "Width",
+    "funcList": [],
+    "groupedTo": {"groupKey": "Dimension" , "separator": " x ", "order": 2}
+  },
+  "height": {
+    "newKeyName": "Height",
+    "funcList": [],
+    "groupedTo": {"groupKey": "Dimension" , "separator": " x ", "order": 3}
+  },
+  "details": {
+    "newKeyName": "Details",
+    "funcList": [],
+    "nested": {
+      "name": {
+        "newKeyName": "Full Name",
+        "funcList": []
+      },
+      "rate": {
+        "newKeyName": "price",
+        "funcList": []
+      }
+    }
+  },
+  "data": {
+    "newKeyName": "Data",
+    "funcList": [],
+    "nested":{
+      "values":{
+        "newKeyName": "Screen Size",
+        "funcList": []
+      }
+    }
+  },
+  "specification": {
+    "newKeyName": "Specification",
+    "funcList": [],
+    "nested": {
+      "dimension": {
+        "newKeyName": "Dimension",
+        "funcList": [],
+        "nested": {
+          "screensize": {
+            "newKeyName": "Screen Size",
+            "funcList": []
+          }
+        }
+      },
+      "connectivity": {
+        "newKeyName": "Connectivity",
+        "funcList": [],
+        "nested": {
+          "networkStandard": {
+            "newKeyName": "Network Standard",
+            "funcList": [],
+            "nested": {
+              "wireless": {
+                "newKeyName": "Wireless",
+                "funcList": [],
+                "nested": {
+                  "bluetooth": {
+                    "newKeyName": "Bluetooth",
+                    "funcList": []
+                  },
+                  "wifi": {
+                    "newKeyName": "Wifi",
+                    "funcList": []
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

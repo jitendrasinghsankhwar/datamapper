@@ -1,0 +1,25 @@
+{
+  "id": "kd-55a1",
+  "name": "55 inch Smart LED Android TV",
+  "price": 12.50,
+  "details": "Discover incredible contrast on an OLED 4K HDR TV with 8 million self-emitting pixels. Pictures are amazingly real with the deepest blacks providing detailed shadow expression and vibrant colour. Innovative Acoustic Surface™ technology delivers engaging sound directly from the screen.",
+  "specifications": {
+    "dimensions": {
+      "screenSize": "139.7 cm (138.68 cm) (55 [54.6])",
+      "tvDimension": "Approx. 1228 x 711x 86 mm",
+      "boxDimension": "Approx. 1366 x 875 x 198 mm"
+    },
+    "connectivity": {
+      "wifiStandard": "Wi-Fi Certified 802.11a/b/g/n/ac",
+      "ethernet": "1 (Bottom)",
+      "bluetooth": "Version 4.1;HID (mouse/keyboard connectivity)/HOGP (Low Energy device connectivity)/SPP(Serial Port Profile)/A2DP (stereo audio) /AVRCP (AV remote control)",
+      "smartphoneConnectivity": "Chromecast built-in Photo Sharing Plus Screen mirroring (Miracast™) Video & TV SideView (iOS/Android)"
+    },
+    "picture": {
+      "displayType": "OLED",
+      "displayResolution": "3840x2160",
+      "capabilities": "No"
+    }
+  },
+  "modelYear": "2017"
+}

@@ -1,0 +1,17 @@
+{
+  "length": {
+    "newKeyName": "Length",
+    "funList": [],
+    "reducedTo": "Dimension"
+  },
+  "width": {
+    "newKeyName": "Width",
+    "funList": [],
+    "reducedTo": "Dimension"
+  },
+  "height": {
+    "newKeyName": "Height",
+    "funList": [],
+    "reducedTo": "Dimension"
+  }
+}

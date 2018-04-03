@@ -1,0 +1,12 @@
+{
+  "data": {
+    "newKeyName": "Data",
+    "funcList": [],
+    "nested":{
+      "values":{
+        "newKeyName": "Screen Size",
+        "funcList": []
+      }
+    }
+  }
+}

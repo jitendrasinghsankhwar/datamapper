@@ -1,0 +1,34 @@
+{
+  "id": "Test1",
+  "details": [
+    {
+      "name": "screen",
+      "rate": 100.2
+    },
+    {
+      "name": "motherboard",
+      "rate": 156.2
+    }
+  ],
+  "data": {
+    "values": [1, 2, 3]
+  },
+  "length": "55",
+  "width": "56",
+  "height": "57",
+  "specification": {
+    "dimension": {
+      "screensize": "139.7 cm (138.68 cm) (55 [54.6])",
+      "Tv": "Approx. 1228 x 711x 86 mm",
+      "Box": "Approx. 1366 x 875 x 198 mm"
+    },
+    "connectivity": {
+      "networkStandard": {
+        "wireless": {
+          "bluetooth": true,
+          "wifi": true
+        }
+      }
+    }
+  }
+}

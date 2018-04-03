@@ -1,0 +1,48 @@
+{
+  "id": {
+    "newKeyName": "Identifier",
+    "funList": []
+  },
+  "specification": {
+    "newKeyName": "Specification",
+    "funList": [],
+    "nested": {
+      "dimension": {
+        "newKeyName": "Dimension",
+        "funList": [],
+        "nested": {
+          "screensize": {
+            "newKeyName": "Screen Size",
+            "funList": []
+          }
+        }
+      },
+      "connectivity": {
+        "newKeyName": "Connectivity",
+        "funList": [],
+        "nested": {
+          "networkStandard": {
+            "newKeyName": "Network Standard",
+            "funList": [],
+            "nested": {
+              "wireless": {
+                "newKeyName": "Wireless",
+                "funList": [],
+                "nested": {
+                  "bluetooth": {
+                    "newKeyName": "Bluetooth",
+                    "funList": []
+                  },
+                  "wifi": {
+                    "newKeyName": "Wifi",
+                    "funList": []
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

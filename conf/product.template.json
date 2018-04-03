@@ -1,0 +1,53 @@
+{
+  "id": { "newKeyName": "identifier", "funcList": ["uppercase"] },
+  "name": { "newKeyName": "Name",  "funcList": ["lowercase"] },
+  "price": { "newKeyName": "Price", "funcList": ["Integer"] },
+  "details": { "newKeyName": "Details", "funcList": [] },
+  "specifications": {
+    "newKeyName": "Specification",
+    "funcList": [],
+    "nested": {
+      "dimensions": {
+        "newKeyName": "Dimension",
+        "funcList": [],
+        "nested": {
+          "screenSize": {
+            "newKeyName": "Screen Size",
+            "funcList": []
+          },
+          "tvDimension": {
+            "newKeyName": "Tv ",
+            "funcList": []
+          },
+          "boxDimension": {
+            "newKeyName": "Box ",
+            "funcList": []
+          }
+        }
+      },
+      "connectivity": {
+        "newKeyName": "Connectivity",
+        "funcList": [],
+        "nested": {
+          "wifiStandard": {
+            "newKeyName": "Wifi Standard",
+            "funcList": []
+          },
+          "ethernet": {
+            "newKeyName": "Ethernet",
+            "funcList": []
+          },
+          "bluetooth": {
+            "newKeyName": "Bluetooth",
+            "funcList": []
+          },
+          "smartphoneConnectivity": {
+            "newKeyName": "Smartphone Connectivity",
+            "funcList": []
+          }
+        }
+      }
+    }
+  },
+  "modelYear": { "newKeyName": "Model Year", "funcList": [] }
+}
