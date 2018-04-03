@@ -2,6 +2,8 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Data Mapper ###
 
+Data Mapper is implemented using Scala and Apache poi library(for json to sls conversion)
+
 * DataMapper is a library, Which tranform the JSON using template. 
 * 0.1.SNAPSHOT
 
